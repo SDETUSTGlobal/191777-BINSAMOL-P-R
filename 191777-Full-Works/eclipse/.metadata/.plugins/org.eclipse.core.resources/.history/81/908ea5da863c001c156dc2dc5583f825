@@ -1,0 +1,32 @@
+package first;
+
+public class firstcode {
+	public static void main(String args[])
+	{
+	String week="wednesday";
+	switch(week){
+	case "sunday":
+	System.out.println("sunday");
+	break;
+	
+	case "monday":
+		System.out.println("monday");
+		break;
+		
+	case "Tuesday":
+		System.out.println("Tuesday");
+		break;
+		
+	case "Wednesday":
+		System.out.println("Wednesday");
+		break;
+		default:
+			System.out.println("Not defined");
+	}
+	
+	
+		
+		
+	}
+
+}

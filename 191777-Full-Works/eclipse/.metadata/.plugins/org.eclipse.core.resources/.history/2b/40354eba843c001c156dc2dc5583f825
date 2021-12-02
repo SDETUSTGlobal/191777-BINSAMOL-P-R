@@ -1,0 +1,16 @@
+package first;
+
+public class firstcode {
+	public static void main(String args[])
+	{
+		int m=6,n=5;
+		m=n++;
+		
+		System.out.println(m);
+		System.out.println(n);
+		
+		
+		
+	}
+
+}

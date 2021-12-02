@@ -1,0 +1,32 @@
+package first;
+
+public class firstcode {
+	public static void main(String args[])
+	{
+	String movie="potc";
+	switch(movie){
+	case "potc":
+	System.out.println("jhonny depp");
+	break;
+	
+	case "mi":
+		System.out.println("tom");
+		break;
+		
+	case "jb":
+		System.out.println("daniel");
+		break;
+		
+	case "cast away":
+		System.out.println("tom hanks");
+		break;
+		default:
+			System.out.println("Not defined");
+	}
+	
+	
+		
+		
+	}
+
+}

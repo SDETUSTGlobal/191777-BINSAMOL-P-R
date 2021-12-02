@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: example.NewTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 40.02 sec <<< FAILURE!
+testEasy(example.NewTest)  Time elapsed: 0.108 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at example.NewTest.testEasy(NewTest.java:14)
+afterTest(example.NewTest)  Time elapsed: 0.184 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at example.NewTest.afterTest(NewTest.java:25)

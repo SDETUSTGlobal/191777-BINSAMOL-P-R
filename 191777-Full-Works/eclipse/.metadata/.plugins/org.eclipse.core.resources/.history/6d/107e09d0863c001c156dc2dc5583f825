@@ -1,0 +1,15 @@
+package first;
+
+public class firstcode {
+	public static void main(String args[])
+	{
+	double i=8.5;
+	int j=0;
+	j=i>10?1:2;
+	System.out.println(j);
+	
+		
+		
+	}
+
+}

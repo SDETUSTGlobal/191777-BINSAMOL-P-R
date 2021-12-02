@@ -1,0 +1,27 @@
+package first;
+
+public class firstcode {
+	public static void main(String args[])
+	{
+		int m=6,n=5;
+		int r1=m+n;
+		int r2=m-n;
+		int r3=m*n;
+		double r4=(double) m/n;
+		int r5=m%n;
+		n++;
+		m=++n;
+		System.out.print(r1);
+		System.out.print(r2);
+		System.out.print(r3);
+		System.out.print(r4);
+		System.out.print(r5);
+		System.out.print(n);
+		System.out.print(m);
+		System.out.print(n);
+		
+		
+		
+	}
+
+}

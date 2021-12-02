@@ -1,0 +1,70 @@
+.abc{
+    color:midnightblue
+}
+.about{
+color: black;  
+   font-size: 20px;
+    font-family: Times New Roman;
+   
+    
+   
+  
+}
+.h1{
+    color:midnightblue;
+    font-size: 25px;
+}
+.h2{
+    color:midnightblue;
+    font-size: 25px;
+    font-family: Times New Roman
+}
+.para1{
+    font-size:20px;
+    font-family: Times New Roman;
+    color:black;
+}
+img{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 40%;
+      
+}
+
+ .dep{
+     color: midnightblue;
+    
+ }
+ body{
+     background-color: lavender;
+ }
+ .head1{
+     color:midnightblue;
+ }    
+.head2{
+    color: midnightblue;
+}
+.head3{
+    color: midnightblue;
+}
+
+
+
+#line1{
+    color: midnightblue;
+    font-style: normal;
+    font-family: 'Times New Roman';
+    font-size:50px;
+
+}
+#line3{
+    color: chocolate;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:40px;
+}
+#line4{
+    color: crimson;
+}
